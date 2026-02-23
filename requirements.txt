@@ -1,0 +1,8 @@
+fastapi==0.131.0
+uvicorn==0.41.0
+pydantic==2.12.5
+python-dotenv==1.2.1
+openai==2.15.0
+numpy==2.2.6
+bm25s==0.3.0
+PyStemmer==3.0.0
